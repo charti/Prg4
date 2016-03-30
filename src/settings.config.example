@@ -1,0 +1,6 @@
+BaseDataPath=C:/Test/Data/
+MaxConsumer=2
+masterDbUrl=jdbc:mysql://192.168.1.100:3306/sys?useSSL=false
+masterDbDriver=com.mysql.jdbc.Driver
+masterDbUser=user
+masterDbPassword=password
